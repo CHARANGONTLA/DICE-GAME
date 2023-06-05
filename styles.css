@@ -1,0 +1,42 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #ebefe3;
+}
+
+
+h1 {
+  margin: 30px;
+  font-family: 'Palatino';
+  text-shadow: 1px 0 #898c90;
+  font-size: 3rem;
+  color: #040701;
+}
+
+p {
+  font-size: 2rem;
+  color: #0a0e0cee;
+  font-family: 'Palatino';
+}
+
+img {
+  width: 50%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Palatino';
+
+}
